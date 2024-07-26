@@ -12,6 +12,10 @@ fun main() {
     println(num)
     println(mydecimal)
 
+//Typecasting
+    var x = num.toInt()
+    println(x)
 
+    var y = number.toDouble()
 }
 
