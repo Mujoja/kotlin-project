@@ -25,7 +25,7 @@ fun main() {
     number += 2
     println(number)
 
-    //Logic Operators : and =&&, or =||, not =!   
+    //Logic Operators : and =&&, or =||, not =!
 
 
 
